@@ -1,0 +1,184 @@
+/* max-width (991 px) */
+@media (max-width:991px){
+    label #openbtn {
+        left: 0;
+        padding: 0;
+    }
+    label #openbtn{
+        font-size: 30px;
+        top: 68px;
+    }
+    .content {
+        left: 164px;
+        position: relative;
+    }
+    .paid{
+        padding: 40px;
+    }
+    .butn{
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        flex-direction: column;
+    }
+}
+/* max width (767 px) */
+@media (max-width:767px){
+    .content{
+        left: 0;
+        width: 60%;
+    }
+    label #openbtn{
+        font-size: 30px;
+        top: 68px;
+    }
+    .know-general {
+        padding: 20px;
+    }
+    .articless {
+        padding: 0px;
+    }
+    .second{
+        background-size: cover;
+        background-position: center;
+    }
+    .text-box h1 {
+        font-size: 2.5rem;
+    }
+    .nine-2 h1 {
+        font-size: 1.5rem;
+    }
+    .text-3 h1{
+        font-size: 3.5rem;
+    }
+    .text-3 h2 {
+        font-size: 3rem;
+    }
+    .teext-area h1{
+        font-size: 2.5rem;
+    }
+    .teext-area h2 {
+        font-size: 2rem;
+    }
+    .box-cont {
+        padding: 20px;
+    }
+    .box-cont h3 {
+        font-size: 1.5rem;
+    }
+    .box-cont h1 {
+        font-size: 3rem;
+    }
+    .text h1 {
+        font-size: 3.5rem;
+    }
+    .text-2 h1 {
+        font-size: 2.5rem;
+    }
+    .top-h2 h2 {
+        font-size: 1.5rem;
+    }
+    .email-section {
+        font-size: 20px;
+    }
+    .top-h1 h2 {
+        font-size: 1.5rem;
+    }
+    .text-para {
+        padding: 15px;
+    }
+    .article{
+        text-align: justify;
+    }
+    .article-2 h2 {
+        text-align: center;
+        font-size: 1.75rem;
+        font-weight: 700;
+    }
+    .article-2 p {
+        text-align: center;
+    }
+    .paid {
+        padding: 15px;
+    }
+    .articles{
+        padding: 15px;
+        text-align: justify;
+    }
+    .clinic{
+        padding: 15px;
+    }
+    .clinic h1{
+        font-size: 1.3rem;
+    }
+    .clinical{
+        padding: 0;
+    }
+    .sub-title {
+        font-size: 15px;
+    }
+    .partner{
+        padding: 15px;
+    }
+    .partner h1{
+        font-size: 20px;
+    }
+    .texting{
+        padding: 15px;
+    }
+    .texting p{
+        text-align: center;
+    }
+    .texting h1{
+        font-size: 18px;
+        text-align: center;
+        padding-top: 15px;
+    }
+    .text-area h1{
+        font-size: 18px;
+    }
+    .head-font h1{
+        padding: 15px;
+        font-size: 18px;
+        line-height: 25px;
+    }
+    .nine-3{
+        padding: 15px;
+    }
+    .nine-3 h1 {
+        font-size: 20px;
+        font-weight: 600;
+    }
+    .nine-3 ul{
+        font-size: 18px;
+    }
+    .display h1{
+        font-size: 20px;
+    }
+    .display h2{
+        font-size: 18px;
+    }
+    .thirteen-1{
+        padding: 15px;
+    }
+    .conteent ul {
+        font-size: 15px;
+    }
+    .last {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    .last h1{
+        font-size: 20px;
+    }
+    .last-last h1{
+        font-size: 20px;
+    }
+    .last-last ul{
+        font-size: 15px;
+    }
+}
